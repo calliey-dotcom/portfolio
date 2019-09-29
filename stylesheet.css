@@ -6,12 +6,13 @@ body{
 }
 
 h1{
+  font-size:30px
    color:#FAD6E7;
 }
 
 p {
    font-style: Underline;
-   font-size: 48px;
+   font-size: 20px;
    color: #FAD6E7;
 }
 
