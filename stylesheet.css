@@ -1,11 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Cute+Font&display=swap');
 
-h1 {
+body{
   font-family: 'Cute Font', cursive;
   
-  
-}
- {p  
+  }
+ h1{
+   color:#FAD6E7
+  }
+
+  p {
    font-style: Underline;
-   dont-size: 48px;
+   font-size: 48px;
+   color: #FAD6E7
+  }
 
