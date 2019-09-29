@@ -3,17 +3,23 @@
 body{
   font-family: 'Cute Font', cursive;
   
-  }
- h1{
-   color:#FAD6E7;
-  }
+}
 
-  p {
+h1{
+   color:#FAD6E7;
+}
+
+p {
    font-style: Underline;
    font-size: 48px;
    color: #FAD6E7;
-    body { background-color:#DFFBFC;
-   
+}
 
-  }
+body { 
+  background-color:#DFFBFC;
+}
+
+h3 {
+  font-size:20px;
+}
 
