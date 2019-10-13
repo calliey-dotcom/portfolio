@@ -20,7 +20,35 @@ body {
   background-color:#DFFBFC;
 }
 
-h3 {
- 
+.hobbyheading {
+  color: #EDDFFC 
+    
 }
+.movies {
+  display:block;
+  float:right;
+  width:49%;
+}
+
+.navbar {
+  overflow:hidden;
+  background-color:#FDFDAE 
+}
+
+.navbar a {
+  float:left;
+  display:block;
+  color:#FDAEE9;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color:#FDAEB8;
+    color: #AEBEFD;
+}
+  
+ 
 
